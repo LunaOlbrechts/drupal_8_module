@@ -1,0 +1,16 @@
+name: luna
+type: theme
+base theme: classy
+description: 'A theme for a portfolio website'
+core: 8.x
+libraries:
+- core/normalize
+- luna/base
+- luna/menu
+- luna/paragraph-form
+- luna/paragraph-text-with-icon
+- luna/paragraph-text-with-image
+- luna/paragraph-long-text
+- luna/paragraph-quote
+- luna/faq
+

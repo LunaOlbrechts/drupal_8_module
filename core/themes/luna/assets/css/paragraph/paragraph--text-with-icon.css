@@ -1,0 +1,12 @@
+
+/*  Paragraph text with icon   */
+.paragraph--type--text-with-icon{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.paragraph--textWithIcon-icon>div>div>img{
+    width: 100px;
+    margin-right: 30px;
+}

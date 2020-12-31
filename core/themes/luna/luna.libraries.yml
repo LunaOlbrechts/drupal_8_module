@@ -1,0 +1,60 @@
+base:
+  version: VERSION
+  css:
+    component:
+      assets/css/styles.css: {}
+      assets/css/content/node.css: {}
+      assets/css/paragraph/paragraph.css: {}
+      assets/css/field/field.css: {}
+      assets/css/views/views.css: {}
+  js:
+    assets/js/behaviors.js: {}
+  dependencies:
+  - core/jquery 
+  - core/jquery.once
+  - core/drupal
+
+menu: 
+  version: VERSION
+  css: 
+    component:
+      asset/css/menu/footer.css: {}
+      asset/css/menu/menu.css: {}
+
+paragraph-form: 
+  version: VERSION
+  css: 
+    component:
+      assets/css/paragraph/paragraph--form.css: {}
+
+paragraph-text-with-icon: 
+  version: VERSION
+  css: 
+    component:
+      assets/css/paragraph/paragraph--text-with-icon.css: {}
+
+paragraph-quote: 
+  version: VERSION
+  css: 
+    component: 
+      assets/css/paragraph/paragraph--quote.css: {}
+
+paragraph-text-with-image: 
+  version: VERSION
+  css: 
+    component: 
+      assets/css/paragraph/paragraph--text-with-image.css: {}
+
+paragraph-long-text: 
+  version: VERSION
+  css: 
+    component: 
+      assets/css/paragraph/paragraph--long-text.css: {}
+
+faq: 
+  version: VERSION
+  css: 
+    component: 
+      assets/css/views/view--faq.css: {}
+  js: 
+    assets/js/collapse.js: {}

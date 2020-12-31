@@ -1,0 +1,55 @@
+
+/*  Field button   */
+.field--name-field-btn{
+    margin-top: 20px;
+}
+
+.field--name-field-btn>div{
+    display: flex;
+    justify-content: center;
+}
+
+.field--name-field-btn>div>a{
+    background-color: #E4BA77;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+/*  Field image   */
+.field--name-field-featured-image>img{
+    width: 300px;
+    height: auto;
+}
+
+.field--type-image>img{
+    width: 345px;
+    height: auto;
+}
+
+/*  Field quote   */
+.field--name-field-quote-body{
+    background-color:  #E4BA77;
+    padding: 20px;
+    font-size: larger;
+}
+
+/*  Field long text */
+.field--name-field-long-text{
+    max-width: 562px;
+    text-align: center;
+}
+.field--name-field-long-text-t{
+    font-weight: bold;
+    font-size: larger;
+}
+
+/*  Field body */
+.field--name-field-body{
+    width: 300px;
+    min-height: 100px;
+    text-align: center;
+}
+
+.field__items{
+    float: none !important;
+}

@@ -1,0 +1,24 @@
+.paragraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+/*  Paragraph title   */
+.paragraph--title{
+    border-top: 1px solid #E4BA77;
+    border-bottom: 1px solid #E4BA77;
+    width: 300px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.paragraph--type--long-text{
+    background: #FAF0F0;
+}
+
+

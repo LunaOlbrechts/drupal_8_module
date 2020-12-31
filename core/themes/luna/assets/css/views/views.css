@@ -1,0 +1,13 @@
+.view-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
+.views-row{
+    width: 300px;
+    margin-right: 100px;
+}
+

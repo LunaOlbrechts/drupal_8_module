@@ -1,0 +1,15 @@
+ul.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #7D9797;
+    align-items: center;
+    height: 70px;
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
+
+.menu-item > a{
+    color: rgb(255, 255, 255) !important;
+
+}
